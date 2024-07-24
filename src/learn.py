@@ -1,6 +1,3 @@
-# this file has been modified by authors of evaluation paper for TGL Neurips workshop
-# all changes can be seen via git diff, and are marked with a comment containing "eval_paper_authors"
-
 import time
 import argparse
 import pdb
